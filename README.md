@@ -157,7 +157,7 @@ predict_image('path/to/banknote.jpg', model, val_test_transforms, CLASS_NAMES, d
 
 ## 🎥 Demo Video
 
-📺 *[Add your YouTube/Google Drive demo link here]*
+📺 *(https://drive.google.com/file/d/15lH25LbbiDRSUgRGL3BlzQKca4vy-CFW/view?usp=sharing)*
 
 ---
 
