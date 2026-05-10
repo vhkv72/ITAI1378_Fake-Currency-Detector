@@ -1,7 +1,7 @@
 # 💵 Fake Currency Detector
 
 **Student:** Vy Vo | **Course:** ITAI 1378 – Computer Vision | **Tier:** 1  
-**Houston Community College**
+**Houston City College**
 
 > A deep learning system that classifies banknote images as **real** or **fake** using ResNet50 transfer learning — 100% test accuracy, 19.80ms inference.
 
@@ -190,7 +190,7 @@ See detailed log: [`docs/AI_usage_log.md`](docs/AI_usage_log.md)
 ---
 
 ## 📄 License
-Academic Use Only — Houston Community College, ITAI 1378
+Academic Use Only — Houston City College, ITAI 1378
 
 ## 🙏 Acknowledgments
 - Professor for guidance throughout the semester
